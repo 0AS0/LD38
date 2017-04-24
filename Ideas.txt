@@ -1,0 +1,12 @@
+Theme is: A Small World
+
+==============
+Social Network
+==============
+
+- Make as many friends as you can (high score)
+- You and your friends connect and become mutual friends
+- Soon every one will know each other (probably not)
+
+- When you walk near an NPC, a progress bar will be displayed
+- Once the progress bar is full, you will be friends with that NPC
